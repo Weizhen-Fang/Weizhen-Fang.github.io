@@ -1,3 +1,3 @@
-## Welcome to my personal page
+# Welcome to my personal page
 
-Pleae visit Weizhen-Fang.github.io
+Pleae visit [Weizhen-Fang.github.io](Weizhen-Fang.github.io)
